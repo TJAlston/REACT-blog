@@ -1,0 +1,36 @@
+body {
+  overflow: hidden;
+  margin: 20px;
+  padding: 0;
+  font-family: Arial;
+  font-size: 20px;
+  background-image: url('purplebg.jpg');
+  background-size: inherit;
+}
+
+.App-intro {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  margin-left: 360px;
+  font-family: Savoye LET;
+  font-size: 30px;
+  color: black;
+  font-weight: bold;
+  background-color: white;
+  opacity: .75;
+  border: 3px solid rgb(122, 32, 122);
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-top: -505px;
+  height: 500px;
+}
+.App-image {
+  /*margin-left: 850px;
+  margin-top: -350px;*/
+  margin-top: 20px;
+  border: 3px solid rgb(122, 32, 122);
+  background-image: url('tjalston.jpg');
+  height: 500px;
+  width: 325px;
+}
